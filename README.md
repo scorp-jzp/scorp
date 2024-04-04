@@ -38,8 +38,4 @@ Hi, I'm scorp and currently in the beginning of my self-taught journey to become
 </table>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scorp-jzp&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)  |  **#30NitesOfCode:** ![@scorp #30NitesOfCode](https://codedex.io/api/petStatus?user=scorp)
-
----
-### Currently Playing
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jupicolo)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scorp-jzp&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)  
