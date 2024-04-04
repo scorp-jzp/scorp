@@ -38,4 +38,5 @@ Hi, I'm scorp and currently in the beginning of my self-taught journey to become
 </table>
 
 ---
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=scorp-jzp&theme=hacker&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=480)](https://git.io/streak-stats)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorp-jzp&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark)
