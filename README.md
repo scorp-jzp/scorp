@@ -4,7 +4,7 @@ Hi, I'm scorp and currently in the beginning of my self-taught journey to become
 
 ### About me:
 
-  - I always wanted to learn programming, but I only started learning independently after I finished college.
+  - I always wanted to learn programming, but I only started learning by myself after I finished college.
   - In addition to become a software developer, I am focusing on data analysis.
   - I studied journalism at a Brazilian university. I'm currently doing my master's degree in communication at UNESP.
   - I can speak 3 [no tech] languages: portuguese, english and spanish.
