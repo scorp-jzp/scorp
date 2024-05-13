@@ -18,25 +18,4 @@ Hi, I'm scorp and currently in the beginning of my self-taught journey to become
 
 ---
 
-<table align="center">
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Languages</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,javascript,git" />
-      </a>
-    </td>
-  
-  <td valign="top" width="50%">
-      <h4>Tools</h4>
-         <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,vscode,discord,notion,apple" />
-  </a>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorp-jzp&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark)
