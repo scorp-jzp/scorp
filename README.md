@@ -4,10 +4,10 @@ Hi, I'm scorp and currently in the beginning of my self-taught journey to become
 
 ### About me:
 
-  - In addition to become a software developer, I am focusing on data analysis.
+  - In addition to become a full-stack developer, I am focusing on data analysis.
   - I studied journalism at a Brazilian university. I'm currently doing my master's degree in communication at UNESP.
   - I can speak 3 [no tech] languages: portuguese, english and spanish.
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorp-jzp&show_icons=true&theme=dark)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark)
+![Scorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorp-jzp&show_icons=true&theme=dark&icon_color=6495ED&text_color=F0F8FF&title_color=6495ED&border_color=ADD8E6)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark&title_color=6495ED&border_color=ADD8E6&text_color=F0F8FF)
