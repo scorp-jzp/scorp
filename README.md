@@ -1,10 +1,10 @@
 ## The Scorp Corp.
 
-Hi, I'm scorp and currently in my journey to become a full-stack developer and I'm based in Brazil.
+Hi, I'm scorp and a full-stack developer and I'm based in Brazil.
 
 ### About me:
 
-  - In addition to become a full-stack developer, I am focusing on data analysis.
+  - In addition to be a full-stack developer, I am focusing on data analysis.
   - I studied journalism at a Brazilian university. I'm currently doing my master's degree in communication at UNESP.
   - I can speak 3 [no tech] languages: portuguese, english and spanish.
 
