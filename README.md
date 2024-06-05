@@ -1,6 +1,6 @@
 ## The Scorp Corp.
 
-Hi, I'm scorp and currently in the beginning of my journey to become a full-stack developer and I'm based in Brazil.
+Hi, I'm scorp and currently in my journey to become a full-stack developer and I'm based in Brazil.
 
 ### About me:
 
