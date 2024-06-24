@@ -1,12 +1,12 @@
 ## The Scorp Corp.
 
-Hi, I'm scorp and a full-stack developer and I'm based in Brazil.
+Hi, I'm scorp! A software engineer, based in Brazil.
 
 ### About me:
 
-  - In addition to be a full-stack developer, I am focusing on data analysis.
-  - I studied journalism at a Brazilian university. I'm currently doing my master's degree in communication at UNESP.
-  - I can speak 3 [no tech] languages: portuguese, english and spanish.
+  - In addition to being a software engineer, I am focusing on data analysis.
+  - I studied journalism at a Brazilian university. I'm currently doing my master's in communication at UNESP.
+  - I can speak 3 [no tech] languages: Portuguese, English, and Spanish.
 
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark&title_color=6495ED&border_color=ADD8E6&text_color=F0F8FF) <br />
