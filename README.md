@@ -1,13 +1,19 @@
-## The Scorp Corp.
-
-Hi, I'm scorp! A software engineer, based in Brazil.
-
-### About me:
-
-  - In addition to being a software engineer, I am focusing on data analysis.
-  - I studied journalism at a Brazilian university. I'm currently doing my master's in communication at UNESP.
-  - I can speak 3 [no tech] languages: Portuguese, English, and Spanish.
+<h2 align="center">The Scorp Corp.</h2> 
+<h3 align="center">Hi, I'm scorp! A software engineer with a liking for side projects, based in Brazil</h3>
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorp-jzp&layout=compact&theme=dark&title_color=6495ED&border_color=ADD8E6&text_color=F0F8FF) <br />
-![Scorp's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorp-jzp&show_icons=true&theme=dark&icon_color=6495ED&text_color=F0F8FF&title_color=6495ED&border_color=ADD8E6)
+
+  - In addition to being a software engineer, I am focusing on data analysis.
+  - I'm currently learning **React**
+  - Talk to me about **random** stuff
+  - I can speak 3 languages: Portuguese, English, and Spanish.
+
+---
+### About Me
+  - Brazilian
+  - Bookworm to the core
+  - A little dragon hoarding information
+  - I always
+
+### How to reach me... 
+  <- all contact information is on the side
