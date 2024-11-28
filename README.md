@@ -15,4 +15,4 @@
   - A little dragon hoarding information
 
 ### ► How to reach me... 
-  <- all contact information is on the side
+  a mystery 
