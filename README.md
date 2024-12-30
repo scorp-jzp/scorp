@@ -6,7 +6,6 @@
   - In addition to being a software engineer, I am focusing on data analysis.
   - I'm currently learning **React**
   - Talk to me about **random** stuff
-  - I'm a polyglot
 
 ---
 ### ► About Me
