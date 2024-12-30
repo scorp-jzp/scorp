@@ -12,6 +12,3 @@
   - Brazilian
   - Bookworm to the core
   - A little dragon hoarding information
-
-### ► How to reach me... 
-  a mystery 
